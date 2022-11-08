@@ -5,7 +5,7 @@
     
 }
 body{
-    background: url(.. /img/bg.jpg) no-repeat center center/cover;
+    background: url(/img/bg.jpg) no-repeat center center/cover;
     z-index: -1;
     border-bottom: 8px solid #222;
     border-style: solid;
